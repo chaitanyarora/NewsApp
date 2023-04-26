@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 3455,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Yorkshire cricket club seeks MidEast investors for refinancing - Reuters",
+            "description": "Yorkshire cricket club seeks MidEast investors for refinancing  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xpZmVzdHlsZS9zcG9ydHMveW9ya3NoaXJlLWNyaWNrZXQtY2x1Yi1zZWVrcy1taWRlYXN0LWludmVzdG9ycy1yZWZpbmFuY2luZy0yMDIzLTA0LTA1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-05T10:53:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Mickey Arthur appointed Pakistan's director of cricket - Reuters",
+            "description": "Mickey Arthur appointed Pakistan's director of cricket  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jcmlja2V0L21pY2tleS1hcnRodXItYXBwb2ludGVkLXBha2lzdGFucy1kaXJlY3Rvci1jcmlja2V0LTIwMjMtMDQtMjAv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-20T14:51:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Sydney Cricket Ground gates named after Tendulkar, Lara - Reuters",
+            "description": "Sydney Cricket Ground gates named after Tendulkar, Lara  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9zeWRuZXktY3JpY2tldC1ncm91bmQtZ2F0ZXMtbmFtZWQtYWZ0ZXItdGVuZHVsa2FyLWxhcmEtMjAyMy0wNC0yNC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-24T08:20:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Reece Rogers",
+            "title": "What’s AGI, and Why Are AI Experts Skeptical?",
+            "description": "ChatGPT and other bots have revived conversations on artificial general intelligence. Scientists say algorithms won’t surpass you any time soon.",
+            "url": "https://www.wired.com/story/what-is-artificial-general-intelligence-agi-explained/",
+            "urlToImage": "https://media.wired.com/photos/644051ca78b1686b7e2ea1bf/191:100/w_1280,c_limit/Scientists-Are-Sketpical-Of-AGI-Business-499295092.jpg",
+            "publishedAt": "2023-04-20T11:00:00Z",
+            "content": "Vishal Misra loves cricket and computer science. Years ago, the Columbia University professor cofounded Cricinfo, a collaborative website for sports fans to stay updated on match statistics. (Its now… [+3129 chars]"
+        }
+    ]
+}
